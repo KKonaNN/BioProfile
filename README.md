@@ -6,6 +6,7 @@
 <body>
   <h1>Welcome to Dumb.fr</h1>
   
+  <img src="https://cdn.discordapp.com/attachments/1101267393294123098/1109289515723542588/image.png">
   <h2>Join dumb.fr</h2>
   <p>To join dumb.fr, visit <a href="https://dumb.fr/join">https://dumb.fr/join</a> and create your account.</p>
   
